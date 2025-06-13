@@ -1,0 +1,39 @@
+# Mengecualikan file berukuran 25 MB atau lebih
+**/[Ll]arge*
+**/[Bb]ig*
+**/*.large
+**/*.big
+
+# Ekstensi file umum yang biasanya besar
+**/*.pdf
+**/*.csv
+**/*.h5
+**/*.hdf5
+**/*.zip
+**/*.tar
+**/*.gz
+**/*.rar
+**/*.pptx
+**/*.docx
+
+# Mengecualikan file berukuran besar di semua direktori
+**/*[0-9][0-9]MB*
+**/*[0-9][0-9][0-9]MB*
+
+# File spesifik yang terlihat besar di proyek ini
+Percobaan1/final.pdf
+Percobaan1/'IMDB Dataset.csv'
+Percobaan1/presentasi1.pptx
+Percobaan2-Christo/'IMDB Dataset.csv'
+Mas Zharif/waterPollution.csv
+
+# Model dan file biner
+**/*.h5
+**/*.model
+**/*.pkl
+
+# Hindari track file sementara dan cache
+**/*.tmp
+**/*.temp
+**/__pycache__/
+**/*.pyc
