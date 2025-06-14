@@ -1,3 +1,28 @@
+
+*Final Project Machine Learning*
+Point :
+
+1. LINK SVM CHRISTO (google colab) :
+https://colab.research.google.com/drive/19a9fmC1j06coqnYpuSOqSC6V7BYg1gKi?usp=sharing
+
+2. LINK SVM CHRISTO (github) : 
+https://github.com/alvinzanuaputra/fp_ml_2025/blob/main/MachineLearning/IMDB_(Support_Vector_Machine).ipynb
+
+3. LINK SUDAH SEMUA -ALVIN_NYOBA (google collab) :
+https://drive.google.com/file/d/1EXXTFMD4tjvAxdnmwsiX9cxcYSpEN9di/view?usp=sharing
+
+4. LINK LINK SUDAH SEMUA -ALVIN_NYOBA (github) : 
+https://github.com/alvinzanuaputra/fp_ml_2025/blob/main/MachineLearning/main.ipynb
+
+5. LINK POWER POINT (Rencana Awal)
+https://www.canva.com/design/DAGoLz4SjyI/DYektuQqZsdGW0vohWWaIA/edit?utm_content=DAGoLz4SjyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+6. LINK LAPORAN AKHIR :
+https://docs.google.com/document/d/1UFvB1t2gPWQ1FDvjIYN2FCpVU7MU4p22/edit?usp=sharing&ouid=103471198710808240156&rtpof=true&sd=true
+
+
+
+```
 1. SVM untuk IMDB: Baseline Cepat & Andal
 Hubungan: Teks ulasan film di IMDB seringkali cukup panjang dan kaya kosakata. Representasinya menggunakan TF-IDF, yang menghasilkan data berdimensi tinggi dan sparse.
 SVM sangat cocok untuk jenis data seperti ini karena:
@@ -24,4 +49,8 @@ Menyediakan performa top-tier secara umum
 XGBoost sering menjadi juara di kompetisi NLP berbasis fitur manual (seperti TF-IDF), karena kekuatannya dalam menangani noise, outlier, dan fitur penting otomatis.
  Cocok untuk: Proyek produksi atau saat akurasi tertinggi sangat dibutuhkan.
 
+```
+
+```bash
 py -3.10 -m pip install tensorflow_hub
+```
