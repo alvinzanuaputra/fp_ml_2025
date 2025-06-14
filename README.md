@@ -1,5 +1,15 @@
 # Proyek Pembelajaran Mesin
 
+# Klasifikasi Sentimen Review Film 
+
+# Anggota Kelompok 8
+
+| Nama                             | NRP        | Kelas              |
+| -------------------------------- | ---------- | ------------------ |
+| Alif Nurrohman                   | 5025231057 | Machine Learning B |
+| Alvin Zanua Putra                | 5025231064 | Machine Learning B |
+| Christoforus Indra Bagus Pratama | 5025231124 | Machine Learning B |
+
 ## Daftar Jupyter Notebook
 
 ### Contoh Azhar Kelas Lain
