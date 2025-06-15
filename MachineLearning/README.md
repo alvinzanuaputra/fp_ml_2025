@@ -18,7 +18,7 @@ https://github.com/alvinzanuaputra/fp_ml_2025/blob/main/MachineLearning/main.ipy
 https://www.canva.com/design/DAGoLz4SjyI/DYektuQqZsdGW0vohWWaIA/edit?utm_content=DAGoLz4SjyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 6. LINK LAPORAN AKHIR :
-https://docs.google.com/document/d/1UFvB1t2gPWQ1FDvjIYN2FCpVU7MU4p22/edit?usp=sharing&ouid=103471198710808240156&rtpof=true&sd=true
+https://docs.google.com/document/d/1Kps-0IWMAKSTloUYi7_0LhSyFMMVzmFf/edit?usp=sharing&ouid=103471198710808240156&rtpof=true&sd=true
 
 
 
