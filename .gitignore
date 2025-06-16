@@ -37,3 +37,16 @@ Mas Zharif/waterPollution.csv
 **/*.temp
 **/__pycache__/
 **/*.pyc
+
+
+# File konfigurasi yang tidak perlu
+Percobaan2-Christo
+.HistoryInstall.sh
+
+mas-Zharif
+
+Final
+
+DeepLearning
+
+azhar
